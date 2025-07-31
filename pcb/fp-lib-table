@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sk6812-mini")(type "KiCad")(uri "${KIPRJMOD}/sk6812-mini.pretty")(options "")(descr ""))
+  (lib (name "xiao")(type "KiCad")(uri "${KIPRJMOD}/xiao.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "customDiode")(type "KiCad")(uri "${KIPRJMOD}/customDiode.pretty")(options "")(descr ""))
+  (lib (name "Switches")(type "KiCad")(uri "${KIPRJMOD}/Switches.pretty")(options "")(descr ""))
+  (lib (name "KB_SWITCH_MX")(type "KiCad")(uri "${KIPRJMOD}/KB_SWITCH_MX.pretty")(options "")(descr ""))
+)
