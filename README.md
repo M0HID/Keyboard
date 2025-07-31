@@ -20,3 +20,4 @@ I wanted to create a challenge for myself, and so opted to use the simple _Xiao 
 | 3D printed case shipping      |                                                       | 1      | 4.42      |
 | PCB                           |                                                       |        | 26.94     |
 | PCB mounted Stabilisers       | https://www.aliexpress.com/item/1005001632672798.html | 1      | 17.39     |
+| Total                         |                                                       |        | 139.19    |
