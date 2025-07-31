@@ -5,6 +5,8 @@ This is a 75% keyboard fully designed by me, including the PCB, case, and firmwa
 
 ### The PCB:
 I wanted to create a challenge for myself, and so opted to use the simple _Xiao RP2040_ as the main MCU. This is however, quite limited in terms of I/O and so i had to make use of 2 MCP23017 io expanders! I also opted to use the QFP footprint on both of them which made things slightly easier to route, given the tight space but probably going to be really hard to solder :sob:
+<img width="1432" height="922" alt="image" src="https://github.com/user-attachments/assets/19cba6b7-a614-4ef9-aece-685fdd8379b2" />
+
 <img width="1546" height="591" alt="image" src="https://github.com/user-attachments/assets/6ec35b3e-9873-497e-8be6-51a103040575" />
 
 ### The BOM:
