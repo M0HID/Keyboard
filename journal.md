@@ -3,6 +3,7 @@ title: "K75"
 author: "@m0.hid"
 description: "A 75% keyboard with per-key rgb lighting, a rotary encoder and usb-c!"
 created_at: "2025-06-25"
+Time Taken: 15 hours
 ---
 
 ### Making the schematic
