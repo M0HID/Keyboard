@@ -12,7 +12,7 @@ I wanted to create a challenge for myself, and so opted to use the simple _Xiao 
 ### The BOM:
 |              Item             | Part #                                                | Amount | Price [$] |
 |:-----------------------------:|-------------------------------------------------------|--------|-----------|
-| 0402 SMD Diodes               | C155378                                               | 82     | 2.87      |
+| 0402 SMD Diodes               | C470745                                               | 82     | 0.60      |
 | Akko cream yellow switches    | https://www.aliexpress.com/item/1005007665996795.html | 82     | 27.52     |
 | Purple Keycap Set             | https://www.aliexpress.com/item/1005005622221680.html | 1      | 15.01     |
 | Reverse Mount SK6812-Mini-E   | C5149201                                              | 86     | 5.91      |
