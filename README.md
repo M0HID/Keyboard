@@ -5,12 +5,14 @@ This is a 75% keyboard fully designed by me, including the PCB, case, and firmwa
 
 ### The PCB:
 I wanted to create a challenge for myself, and so opted to use the simple _Xiao RP2040_ as the main MCU. This is however, quite limited in terms of I/O and so i had to make use of 2 MCP23017 io expanders! I also opted to use the QFP footprint on both of them which made things slightly easier to route, given the tight space but probably going to be really hard to solder :sob:
+<img width="1432" height="922" alt="image" src="https://github.com/user-attachments/assets/19cba6b7-a614-4ef9-aece-685fdd8379b2" />
+
 <img width="1546" height="591" alt="image" src="https://github.com/user-attachments/assets/6ec35b3e-9873-497e-8be6-51a103040575" />
 
 ### The BOM:
 |              Item             | Part #                                                | Amount | Price [$] |
 |:-----------------------------:|-------------------------------------------------------|--------|-----------|
-| 0402 SMD Diodes               | C155378                                               | 82     | 2.87      |
+| 0402 SMD Diodes               | C470745                                               | 82     | 0.60      |
 | Akko cream yellow switches    | https://www.aliexpress.com/item/1005007665996795.html | 82     | 27.52     |
 | Purple Keycap Set             | https://www.aliexpress.com/item/1005005622221680.html | 1      | 15.01     |
 | Reverse Mount SK6812-Mini-E   | C5149201                                              | 86     | 5.91      |
@@ -20,4 +22,5 @@ I wanted to create a challenge for myself, and so opted to use the simple _Xiao 
 | 3D printed case shipping      |                                                       | 1      | 4.42      |
 | PCB                           |                                                       |        | 26.94     |
 | PCB mounted Stabilisers       | https://www.aliexpress.com/item/1005001632672798.html | 1      | 17.39     |
+| Rotary Encoder                | C470745                                               | 1      | 2.81      |
 | Total                         |                                                       |        | 139.19    |
