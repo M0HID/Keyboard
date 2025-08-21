@@ -23,4 +23,5 @@ I wanted to create a challenge for myself, and so opted to use the simple _Xiao 
 | PCB                           |                                                       |        | 26.94     |
 | PCB mounted Stabilisers       | https://www.aliexpress.com/item/1005001632672798.html | 1      | 17.39     |
 | Rotary Encoder                | C470745                                               | 1      | 2.81      |
+| WS2812B Led Sidelighting      |                                                       | 1      | 5.53
 | Total                         |                                                       |        | 139.19    |
