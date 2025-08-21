@@ -1,4 +1,4 @@
-25752988123967835
+25754743304868660
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -103988,6 +103988,13 @@ customDiode
 D_0402_1005Metric_Pad0.77x0.64mm_HandSolder-withVia
 Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode handsolder
+0
+3
+2
+customDiode
+D_SOD-123
+SOD-123
+SOD-123
 0
 3
 2
